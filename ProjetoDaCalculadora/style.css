@@ -1,0 +1,13 @@
+body{
+background-image:linear-gradient(lightblue, rgb(252, 185, 195));
+text-align:center;
+}
+button{
+width: 200; height: 100; border-radius: 25%; background-color: rgb(253, 206, 213);
+}
+input{
+    width: 250; height: 30;
+}
+h3{
+    
+}
